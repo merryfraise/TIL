@@ -70,7 +70,7 @@ tsc file-name.ts
 
 <img width="498" alt="스크린샷 2023-04-05 오후 11 15 47" src="https://user-images.githubusercontent.com/121331811/230118821-badcb0a0-6143-49a3-a081-08e208fb2431.png">
 
-> ##### 🍒 Mémo
+> #### 🍒 MÉMO
 > 
 > `tsc file-name.ts`으로 컴파일을 할 경우 tsconfig.json의 설정을 무시하고 기본 컴파일 옵션으로 컴파일된다.  
 > (Ignoring tsconfig.json, compiles the specified files with default compiler options.)
@@ -82,11 +82,11 @@ tsc -w
 tsc --watch
 ```
 
-> ##### 🍒 Mémo
+> #### 🍒 MÉMO
 > 
 > 작성한 ts 파일에 변화가 있을 때마다 tsc file-name.ts를 실행해야 컴파일 된 js 파일에도 변화가 적용된다.  
 > 이 때, `tsc -w`를 사용해 watch mode를 작동시키면 ts 파일에 변화가 감지될 때마다 자동으로 js 파일로 컴파일을 한다.
 
-> ##### 🐰 Référence
+> #### 🐰 RÉFÉRENCE
 > 
 > [TypeScript 공식 문서](https://www.typescriptlang.org/ "TypeScript 공식 문서")
