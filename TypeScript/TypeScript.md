@@ -48,21 +48,24 @@ yarn global add typescript
 
 TypeScript 설치를 마쳤다면 `tsc` 명령어를 사용할 수 있다!
 
-#### `tsc`를 이용한 명령어 목록을 확인하기
+#### tsc -h
+`tsc`를 이용한 명령어 목록을 확인하기
 
 ```bash
 tsc -h
 tsc --help
 ```
 
-#### TypeScript의 버전 확인하기
+#### tsc -v
+TypeScript의 버전 확인하기
 
 ```bash
 tsc -v
 tsc --version
 ```
 
-#### ts 파일을 js 파일로 컴파일하기
+#### tsc file-name
+ts 파일을 js 파일로 컴파일하기
 
 ```bash
 tsc file-name.ts
@@ -75,7 +78,8 @@ tsc file-name.ts
 > `tsc file-name.ts`으로 컴파일을 할 경우 tsconfig.json의 설정을 무시하고 기본 컴파일 옵션으로 컴파일된다.  
 > (Ignoring tsconfig.json, compiles the specified files with default compiler options.)
 
-#### 자동 컴파일하기
+#### tsc -w
+자동 컴파일하기
 
 ```
 tsc -w
@@ -84,7 +88,7 @@ tsc --watch
 
 > #### 🍒 MÉMO
 > 
-> 작성한 ts 파일에 변화가 있을 때마다 tsc file-name.ts를 실행해야 컴파일 된 js 파일에도 변화가 적용된다.  
+> 작성한 ts 파일에 변화가 있을 때마다 `tsc file-name.ts`를 실행해야 컴파일 된 js 파일에도 변화가 적용된다.  
 > 이 때, `tsc -w`를 사용해 watch mode를 작동시키면 ts 파일에 변화가 감지될 때마다 자동으로 js 파일로 컴파일을 한다.
 
 > #### 🐰 RÉFÉRENCE
