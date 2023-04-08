@@ -158,6 +158,6 @@ function validAnagram(first, second) {
 
 `frequencyCounter1[letter] = (frequencyCounter1[letter] || 0) + 1;`를 `lookup[letter] ? (lookup[letter] += 1) : (lookup[letter] = 1);`로 쓸 수 있는 것처럼...
 
-> 🐰 RÉFÉRENCE
+> #### 🐰 RÉFÉRENCE
 > 
 > [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/ "JavaScript Algorithms and Data Structures Masterclass")
