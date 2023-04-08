@@ -81,7 +81,7 @@ CSR로 시작해 ISR로 끝난 렌더링 방법에서 볼 수 있듯이, CSR / S
 
 ![비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fch14Xg%2Fbtr8LLz4lyK%2FudB0opqO3ogAFWKgikKyK0%2Fimg.png)
 
-> 🐰 RÉFÉRENCE
+> #### 🐰 RÉFÉRENCE
 > 
 > [Next.js 공식 문서](https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs "Next.js 공식 문서")  
 > [CSR, SSR, SSG, ISR](https://dev.to/pahanperera/visual-explanation-and-comparison-of-csr-ssr-ssg-and-isr-34ea "CSR, SSR, SSG, ISR")
