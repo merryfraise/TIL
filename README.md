@@ -8,7 +8,11 @@
 ## Next.js
 - [Next.js](https://github.com/merryfraise/TIL/blob/main/Next.js/Next.js.md)
 
+## Algorithm
+- [Frequency Counter](https://github.com/merryfraise/TIL/blob/main/Algorithm/Frequency%20Counter.md)
+
 ## TIL
 - [2023-04-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-05.md)
 - [2023-04-06](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-06.md)
 - [2023-04-07](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-07.md)
+- [2023-04-08](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-08.md)
