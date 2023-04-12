@@ -15,6 +15,9 @@
 - [Multiple Pointers](https://github.com/merryfraise/TIL/blob/main/Algorithm/Multiple%20Pointers.md)
 - [Sliding Window](https://github.com/merryfraise/TIL/blob/main/Algorithm/Sliding%20Window.md)
 - [Divide and Conquer](https://github.com/merryfraise/TIL/blob/main/Algorithm/Divide%20and%20Conquer.md)
+- [Challenges - Frequency Counter](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Frequency%20Counter.md)
+- [Challenges - Multiple Pointers](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Multiple%20Pointers.md)
+- [Challenges - Sliding Window](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Sliding%20Window.md)
 
 ## TIL
 - [2023-04-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-05.md)
@@ -24,3 +27,4 @@
 - [2023-04-09](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-09.md)
 - [2023-04-10](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-10.md)
 - [2023-04-11](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-11.md)
+- [2023-04-12](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-12.md)
