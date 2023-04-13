@@ -91,20 +91,21 @@ function minSubarrayLen(nums, sum) {
   let minLen = Infinity;
  
   while (start < nums.length) {
-    // if current window doesn't add up to the given sum then 
-		// move the window to right
+    /* 만약 현재 윈도우의 합이 sum보다 작으면 
+    윈도우를 늘림 (끝 위치를 변경) */
     if(total < sum && end < nums.length){
       total += nums[end];
-			end++;
+      end++;
     }
-    // if current window adds up to at least the sum given then
-		// we can shrink the window 
-    else if(total >= sum){
+    /* 만약 현재 윈도우의 합이 sum 이상이라면
+    윈도우를 줄일 수 있음 (시작 위치를 변경) */
+    else if (total >= sum){
       minLen = Math.min(minLen, end-start);
-			total -= nums[start];
-			start++;
+      total -= nums[start];
+      start++;
     } 
-    // current total less than required total but we reach the end, need this or else we'll be in an infinite loop 
+    /* 현재 총 합이 sum보다 작은데 배열 끝에 도달했을 경우,
+    break를 하지 않으면 무한 루프에 빠질 수 있음 */
     else {
       break;
     }
@@ -145,9 +146,9 @@ function findLongestSubstring(str) {
     if (seen[char]) {
       start = Math.max(start, seen[char]);
     }
-    // index - beginning of substring + 1 (to include current in count)
+    // 인덱스 - 하위 문자열의 시작 + 1 (현재 길이 포함하기 위해)
     longest = Math.max(longest, i - start + 1);
-    // store the index of the next char so as to not double count
+    // 다음 문자의 인덱스를 저장해서 더블 카운트 하지 않게 함
     seen[char] = i + 1;
   }
   return longest;
