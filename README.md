@@ -5,6 +5,7 @@
 - [TypeScript](https://github.com/merryfraise/TIL/blob/main/TypeScript/TypeScript.md)
 - [Everyday Types](https://github.com/merryfraise/TIL/blob/main/TypeScript/Everyday%20Types.md)
 - [Object Oriented Programming](https://github.com/merryfraise/TIL/blob/main/TypeScript/Object%20Oriented%20Programming.md)
+- [OOP - Encapsulation](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Encapsulation.md)
 
 ## Next.js
 - [Next.js](https://github.com/merryfraise/TIL/blob/main/Next.js/Next.js.md)
@@ -28,3 +29,4 @@
 - [2023-04-10](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-10.md)
 - [2023-04-11](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-11.md)
 - [2023-04-12](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-12.md)
+- [2023-04-13](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-13.md)
