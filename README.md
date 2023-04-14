@@ -20,7 +20,10 @@
 - [Challenges - Multiple Pointers](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Multiple%20Pointers.md)
 - [Challenges - Sliding Window](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Sliding%20Window.md)
 
-## TIL
+## <img src="https://user-images.githubusercontent.com/121331811/231955636-bb51ef92-28bf-4d96-ad9d-b3656d14c056.png" height="40" /> TIL
+<details>
+<summary></summary>
+
 - [2023-04-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-05.md)
 - [2023-04-06](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-06.md)
 - [2023-04-07](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-07.md)
@@ -30,3 +33,4 @@
 - [2023-04-11](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-11.md)
 - [2023-04-12](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-12.md)
 - [2023-04-13](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-13.md)
+</details>
