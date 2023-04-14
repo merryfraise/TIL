@@ -1,4 +1,4 @@
-# 🩷 Today I Learned
+# <img src="https://user-images.githubusercontent.com/121331811/231955636-bb51ef92-28bf-4d96-ad9d-b3656d14c056.png" height="48" /> Today I Learned
 하루 공부 일기
 
 ## TypeScript
@@ -6,6 +6,7 @@
 - [Everyday Types](https://github.com/merryfraise/TIL/blob/main/TypeScript/Everyday%20Types.md)
 - [Object Oriented Programming](https://github.com/merryfraise/TIL/blob/main/TypeScript/Object%20Oriented%20Programming.md)
 - [OOP - Encapsulation](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Encapsulation.md)
+- [OOP - Abstraction](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Abstraction.md)
 
 ## Next.js
 - [Next.js](https://github.com/merryfraise/TIL/blob/main/Next.js/Next.js.md)
@@ -20,9 +21,9 @@
 - [Challenges - Multiple Pointers](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Multiple%20Pointers.md)
 - [Challenges - Sliding Window](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Sliding%20Window.md)
 
-## <img src="https://user-images.githubusercontent.com/121331811/231955636-bb51ef92-28bf-4d96-ad9d-b3656d14c056.png" height="40" /> TIL
+## TIL
 <details>
-<summary></summary>
+<summary>목록</summary>
 
 - [2023-04-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-05.md)
 - [2023-04-06](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-06.md)
@@ -33,4 +34,5 @@
 - [2023-04-11](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-11.md)
 - [2023-04-12](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-12.md)
 - [2023-04-13](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-13.md)
+- [2023-04-14](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-14.md)
 </details>
