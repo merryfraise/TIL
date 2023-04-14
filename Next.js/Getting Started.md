@@ -68,6 +68,14 @@ npx create-next-app@latest --experimental-app
 
 package.json도 살펴보았는데 dependecies에 설치된 목록과 버전이 모두 동일했다.
 
++) 2023.04.14 추가
+
+```bash
+npx create-next-app@latest --experimental-app
+```
+
+위 명령어는 최신 버전의 Next.js를 설치하면서, 실험적인 기능을 사용할 수 있는 프로젝트를 생성하는 방법이다. (`--experimental-app`)
+
 > #### 🐰 RÉFÉRENCE
 > [Next.js 공식 문서](https://nextjs.org/docs "Next.js 공식 문서")  
 > [Next.js beta 문서](https://beta.nextjs.org/docs/installation "Next.js beta 문서")  
