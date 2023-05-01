@@ -25,9 +25,6 @@
 - [Recursion - Helper Method](https://github.com/merryfraise/TIL/blob/main/Algorithm/Recursion%20-%20Helper%20Method.md)
 
 ## TIL
-<details>
-<summary>목록</summary>
-
 - [2023-04-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-05.md)
 - [2023-04-06](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-06.md)
 - [2023-04-07](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-07.md)
@@ -43,5 +40,3 @@
 - [2023-04-28](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-28.md)
 - [2023-04-30](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-30.md)
 - [2023-05-01](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-01.md)
-
-</details>
