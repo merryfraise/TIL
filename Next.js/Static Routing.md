@@ -1,4 +1,4 @@
-## 🫒 Routing Pages
+## 🫒 Static Routing
 
 ### Using `pages` directory
 
