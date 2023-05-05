@@ -16,8 +16,13 @@
 node -v
 ```
 
-![node -v](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbRbOe6%2Fbtr9zNLqHbO%2F3IDEAI7ccpv07LPSNaz8Hk%2Fimg.png)
-나의 Node.js 버전은 19.8.1이기 때문에 조건 충족!
+<div align="center">
+
+  ![node -v](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbRbOe6%2Fbtr9zNLqHbO%2F3IDEAI7ccpv07LPSNaz8Hk%2Fimg.png)
+
+  나의 Node.js 버전은 19.8.1이기 때문에 조건 충족!
+
+</div>
 
 만약 그 이전 버전의 Node.js 환경이라면 다음 방법으로 Node.js를 업데이트 할 수 있다.
 
@@ -59,11 +64,17 @@ npx create-next-app@latest --experimental-app # beta 버전
 
 두 명령어에 큰 차이가 무엇이 있을지 직접 실행해 보았다.
 
-![npx create-next-app@latest](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbiSOE9%2Fbtr9AatfYon%2FKhBAabj889R274kuxodja1%2Fimg.png)
-npx create-next-app@latest
-![npx create-next-app@latest --experimental-app](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F8Gihc%2Fbtr9BY6Dso2%2FmAJklFutiTpK1zkkiFQ9LK%2Fimg.png)
-npx create-next-app@latest --experimental-app
+<div align="center">
 
+  ![npx create-next-app@latest](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbiSOE9%2Fbtr9AatfYon%2FKhBAabj889R274kuxodja1%2Fimg.png)
+
+  npx create-next-app@latest
+
+  ![npx create-next-app@latest --experimental-app](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F8Gihc%2Fbtr9BY6Dso2%2FmAJklFutiTpK1zkkiFQ9LK%2Fimg.png)
+
+  npx create-next-app@latest --experimental-app
+
+</div>
 큰 차이가 없어보인다!
 
 package.json도 살펴보았는데 dependecies에 설치된 목록과 버전이 모두 동일했다.
