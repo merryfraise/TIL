@@ -4,8 +4,13 @@
 
 경로를 동적으로 관리하고자 하는 폴더 및 파일의 이름에 대괄호를 써준다.
 
-![pages](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F29Xsk%2FbtsdBOtzq9h%2FIpyjWBxut5HO0m3r6HOygK%2Fimg.png)
-pages 폴더를 이용한 라우팅
+<div align="center">
+
+  ![pages](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F29Xsk%2FbtsdBOtzq9h%2FIpyjWBxut5HO0m3r6HOygK%2Fimg.png)
+
+  pages 폴더를 이용한 라우팅
+
+</div>
 
 ### Using `page.js` file
 
@@ -13,8 +18,13 @@ pages 폴더를 이용한 라우팅
 
 이 때 폴더 명은 일반적으로 `[slug]`나 `[id]`를 사용한다.
 
-![page.js](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKtwF2%2FbtsdIHM90Kq%2FQaeWedWsizHxVP0TJskJj0%2Fimg.png)
-page.js 파일을 이용한 라우팅
+<div align="center">
+
+  ![page.js](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKtwF2%2FbtsdIHM90Kq%2FQaeWedWsizHxVP0TJskJj0%2Fimg.png)
+
+  page.js 파일을 이용한 라우팅
+
+</div>
 
 > #### 🍒 MÉMO
 > pages 폴더 이용방식이나 page.js 파일 이용방식이나 모두 `[...slug]`를 사용했을 때, /:slug 이하의 모든 경로를 동적으로 관리 가능하다.  
