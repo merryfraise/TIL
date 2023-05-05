@@ -4,8 +4,13 @@
 
 객체 내부의 구현이 어떻게 되어있는지 알 수 없어도 사용할 수 있는 것, 즉 객체의 공통적인 속성과 기능을 정의하여 추출하는 것을 추상화라고 한다.
 
-![Abstraction](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc9pR82%2Fbtr94xn82fk%2Fa8nBiynYBKbbl3KJTcI2ck%2Fimg.png)
-Abstraction
+<div align="center">
+
+  ![Abstraction](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc9pR82%2Fbtr94xn82fk%2Fa8nBiynYBKbbl3KJTcI2ck%2Fimg.png)
+  
+  Abstraction
+  
+</div>
 
 앞선 [OOP - Encapsulation](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Encapsulation.md)에서 `slice()`와 `boil()`이라는 메소드를 구현해보았다.
 
