@@ -71,7 +71,11 @@ ts 파일을 js 파일로 컴파일하기
 tsc file-name.ts
 ```
 
-<img width="498" alt="스크린샷 2023-04-05 오후 11 15 47" src="https://user-images.githubusercontent.com/121331811/230118821-badcb0a0-6143-49a3-a081-08e208fb2431.png">
+<div align="center">
+  <img width="498" alt="스크린샷 2023-04-05 오후 11 15 47" src="https://user-images.githubusercontent.com/121331811/230118821-badcb0a0-6143-49a3-a081-08e208fb2431.png">
+  
+  tsc file-name.ts 사용시 주의사항!!
+</div>
 
 > #### 🍒 MÉMO
 > 
@@ -92,5 +96,4 @@ tsc --watch
 > 이 때, `tsc -w`를 사용해 watch mode를 작동시키면 ts 파일에 변화가 감지될 때마다 자동으로 js 파일로 컴파일을 한다.
 
 > #### 🐰 RÉFÉRENCE
-> 
 > [TypeScript 공식 문서](https://www.typescriptlang.org/ "TypeScript 공식 문서")
