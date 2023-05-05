@@ -7,6 +7,8 @@
 - [Object Oriented Programming](https://github.com/merryfraise/TIL/blob/main/TypeScript/Object%20Oriented%20Programming.md)
 - [OOP - Encapsulation](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Encapsulation.md)
 - [OOP - Abstraction](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Abstraction.md)
+- [OOP - Inheritance](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Inheritance.md)
+- [OOP - Polymorphism](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Polymorphism.md)
 
 ## Next.js
 - [Next.js](https://github.com/merryfraise/TIL/blob/main/Next.js/Next.js.md)
@@ -44,3 +46,4 @@
 - [2023-05-01](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-01.md)
 - [2023-05-02](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-02.md)
 - [2023-05-03](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-03.md)
+- [2023-05-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-05.md)
