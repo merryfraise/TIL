@@ -4,8 +4,13 @@
 
 캡슐화는 서로 연관된 데이터를 하나의 캡슐로 묶어두는 것을 의미한다고 저번 포스팅에 작성해두었다.
 
-![Encapsulation](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbVAYHB%2Fbtr92pCeqHn%2FuwVaGbF6iakgYx8xzfv4UK%2Fimg.png)
-Encapsulation
+<div align="center">
+  
+  ![Encapsulation](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbVAYHB%2Fbtr92pCeqHn%2FuwVaGbF6iakgYx8xzfv4UK%2Fimg.png)
+
+  Encapsulation
+  
+</div>
 
 이렇게 캡슐화를 하는 것에는 크게 2가지 이유가 존재한다.
 
