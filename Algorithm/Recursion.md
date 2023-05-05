@@ -59,9 +59,13 @@ function wakeUp() {
 
 wakeUp();
 ```
+<div align="center">
 
-![Call Stack 순서](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FddFHGa%2Fbtsa7tqDz6G%2FDweIuwFrqeszuKESH0yKEK%2Fimg.png)
-Call Stack 순서
+  ![Call Stack 순서](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FddFHGa%2Fbtsa7tqDz6G%2FDweIuwFrqeszuKESH0yKEK%2Fimg.png)
+
+  Call Stack 순서
+
+</div>
 
 일반적으로 함수를 작성할 때 콜 스택에 함수가 쌓이는 순서이다.
 
