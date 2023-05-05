@@ -5,9 +5,10 @@
 다형성은 같은 함수가 다양한 형태를 지니고 있는 것을 의미한다.
 
 <div align="center">
-  
-![Plymorphism](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdWUFaB%2FbtsdZi8PoXG%2FJzke8kyuvhv606E07gDfKK%2Fimg.png)
-Polymorphism
+
+  ![Plymorphism](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdWUFaB%2FbtsdZi8PoXG%2FJzke8kyuvhv606E07gDfKK%2Fimg.png)
+
+  Polymorphism
 
 </div>
 
