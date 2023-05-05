@@ -6,8 +6,13 @@ Next.js에서 페이지는 **pages 폴더** 내부에 있는 React.js 컴포넌�
 
 페이지의 라우팅 경로는 각 폴더 및 파일의 이름에 따라 결정된다.
 
-![pages](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKTNUo%2Fbtsdxi2vqVr%2FkvduebEroe8kLSkIHs83Z1%2Fimg.png)
-pages 폴더를 이용한 라우팅
+<div align="center">
+
+  ![pages](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKTNUo%2Fbtsdxi2vqVr%2FkvduebEroe8kLSkIHs83Z1%2Fimg.png)
+
+  pages 폴더를 이용한 라우팅
+
+</div>
 
 > #### 🍒MÉMO
 > /authors/me 라는 새로운 경로를 추가하고 싶다면 폴더를 포함한 파일의 이름은 어떻게 되어야 할까?  
@@ -26,8 +31,13 @@ Next.js 13버전 부터는 라우팅을 할 때 pages 폴더를 이용한 방식
 > #### 🍒 MÉMO
 > page.js 파일은 app 폴더 하위에서 작성해야 한다.
 
-![page.js](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbTdgPx%2FbtsdGcAh3ON%2FSaU8rz6LaZPuN0AjKJyIAK%2Fimg.png)
-page.js 파일을 이용한 라우팅
+<div align="center">
+
+  ![page.js](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbTdgPx%2FbtsdGcAh3ON%2FSaU8rz6LaZPuN0AjKJyIAK%2Fimg.png)
+
+  page.js 파일을 이용한 라우팅
+
+</div>
 
 > #### 🐰 RÉFÉRENCE
 > [Next.js 공식 문서 - Pages in Next.js](https://nextjs.org/learn/basics/navigate-between-pages/pages-in-nextjs "Next.js 공식 문서 - Pages in Next.js")  
