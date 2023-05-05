@@ -42,8 +42,13 @@ function countDown(num) {
 
 #### **Mechanism**
 
-![countDown](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeofAYO%2FbtscRKevVv2%2FK7PMJPliNK02BNkrH7HPk0%2Fimg.png)
-`countDown` 작동 원리
+<div align="center">
+
+  ![countDown](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeofAYO%2FbtscRKevVv2%2FK7PMJPliNK02BNkrH7HPk0%2Fimg.png)
+
+  `countDown` 작동 원리
+
+</div>
 
 `countDown` 함수에서 `num <= 0`일 때 재귀 호출이 멈추기 때문에 베이스 케이스는 `if (num <= 0)`이다.
 
@@ -66,8 +71,13 @@ function sumRange(num) {
 
 #### **Mechanism**
 
-![sumRange](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcgX6CS%2FbtscZaCrJXV%2Faxe1xGIIVkOBigNjKkVZH0%2Fimg.png)
-`sumRange` 작동 원리
+<div align="center">
+
+  ![sumRange](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcgX6CS%2FbtscZaCrJXV%2Faxe1xGIIVkOBigNjKkVZH0%2Fimg.png)
+
+  `sumRange` 작동 원리
+
+</div>
 
 `sumRange` 함수에서 `num === 1`일 때 재귀 호출이 멈추기 때문에 베이스 케이스는 `if (num === 1)`이다.
 
@@ -104,8 +114,13 @@ function factorial(num) {
 
 #### **Mechanism**
 
-![factorial](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbtkvrL%2FbtscZtofAZp%2F7a8dWLqjMOVq1Sy31ie3i1%2Fimg.png)
-`factorial` 작동 원리
+<div align="center">
+
+  ![factorial](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbtkvrL%2FbtscZtofAZp%2F7a8dWLqjMOVq1Sy31ie3i1%2Fimg.png)
+
+  `factorial` 작동 원리
+
+</div>
 
 `factorial` 함수의 작동 원리는 `sumRange`와 동일하다. 덧셈 대신 곱셈을 해주고 있을 뿐...
 
