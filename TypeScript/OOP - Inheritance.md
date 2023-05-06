@@ -14,6 +14,33 @@
   
 </div>
 
+### Abstract class
+
+interface처럼 abstract class를 상속받은 객체들은 꼭 부모에게 작성된 메소드를 구현해야한다.
+
+abstract class로 지정된 부모는 상속을 위한 이름만 존재하고 인스턴스 생성이 불가능하다.
+
+또한 abstract로 지정된 메소드는 자식에서 구현하지 않으면 안된다.
+
+```ts
+abstract class Cooking {
+  constructor(ingredients: string[]) {}
+  
+  slice() {}
+  
+  boil() {}
+  
+  abstract cook(): void;
+}
+
+class BulgogiCooking extends Cooking {
+  cook() {}
+}
+
+const cook = new Cooking(['추상', '클래스는', '인스턴스', '생성이', '불가']); // ❌
+const bulgogi = new BulgogiCooking(['추상', '메소드를', '구현하지', '않으면', '오류발생']); // ⭕️
+```
+
 ### Example
 
 ```ts
