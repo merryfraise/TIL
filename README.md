@@ -16,6 +16,8 @@
 - [Getting Started](https://github.com/merryfraise/TIL/blob/main/Next.js/Getting%20Started.md)
 - [Static Routing](https://github.com/merryfraise/TIL/blob/main/Next.js/Static%20Routing.md)
 - [Dynamic Routing](https://github.com/merryfraise/TIL/blob/main/Next.js/Dynamic%20Routing.md)
+- [Layout](https://github.com/merryfraise/TIL/blob/main/Next.js/Layout.md)
+- [Not Found](https://github.com/merryfraise/TIL/blob/main/Next.js/Not%20Found.md)
 
 ## Algorithm
 - [Frequency Counter](https://github.com/merryfraise/TIL/blob/main/Algorithm/Frequency%20Counter.md)
@@ -50,3 +52,5 @@
 - [2023-05-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-05.md)
 - [2023-05-06](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-06.md)
 - [2023-05-08](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-08.md)
+- [2023-05-09](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-09.md)
+- [2023-05-10](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-10.md)
