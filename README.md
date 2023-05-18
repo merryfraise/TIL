@@ -32,7 +32,7 @@
 - [Recursion - Helper Method](https://github.com/merryfraise/TIL/blob/main/Algorithm/Recursion%20-%20Helper%20Method.md)
 - [Challenges - Recursion 1️⃣](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Recursion%201%EF%B8%8F%E2%83%A3.md)
 - [Challenges - Recursion 2️⃣](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%20-%20Recursion%202%EF%B8%8F%E2%83%A3.md)
-- [Challenges - Recursion 3️⃣)(https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%C2%A0-%C2%A0Recursion%C2%A03%EF%B8%8F%E2%83%A3.md)
+- [Challenges - Recursion 3️⃣](https://github.com/merryfraise/TIL/blob/main/Algorithm/Challenges%C2%A0-%C2%A0Recursion%C2%A03%EF%B8%8F%E2%83%A3.md)
 
 ## TIL
 - [2023-04-05](https://github.com/merryfraise/TIL/blob/main/TIL/2023-04-05.md)
