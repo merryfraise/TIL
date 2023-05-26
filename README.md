@@ -69,3 +69,5 @@
 - [2023-05-19](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-19.md)
 - [2023-05-22](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-22.md)
 - [2023-05-23](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-23.md)
+- [2023-05-24](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-24.md)
+- [2023-05-25](https://github.com/merryfraise/TIL/blob/main/TIL/2023-05-25.md)
