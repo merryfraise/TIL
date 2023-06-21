@@ -10,6 +10,7 @@
 - [OOP - Inheritance](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Inheritance.md)
 - [OOP - Polymorphism](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Polymorphism.md)
 - [OOP - Composition](https://github.com/merryfraise/TIL/blob/main/TypeScript/OOP%20-%20Composition.md)
+- [Generics](https://github.com/merryfraise/TIL/blob/main/TypeScript/Generics.md)
 
 ## Next.js
 - [Next.js](https://github.com/merryfraise/TIL/blob/main/Next.js/Next.js.md)
@@ -80,3 +81,4 @@
 - [2023-06-15](https://github.com/merryfraise/TIL/blob/main/TIL/2023-06-15.md)
 - [2023-06-16](https://github.com/merryfraise/TIL/blob/main/TIL/2023-06-16.md)
 - [2023-06-19](https://github.com/merryfraise/TIL/blob/main/TIL/2023-06-19.md)
+- [2023-06-20](https://github.com/merryfraise/TIL/blob/main/TIL/2023-06-20.md)
