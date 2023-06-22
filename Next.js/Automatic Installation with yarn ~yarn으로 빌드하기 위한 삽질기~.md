@@ -52,7 +52,7 @@ run "yarn install" to update the lockfile이라고 하니.. 아마 yarn.lock 파
 
 대충 나도 이런 모습을 보여주고 있었다는 뜻.. 그럼 `npx`가 아닌 `yarn`으로 설치했던게 문제는 아니라는 것 같은데 대체 무엇이 문제인걸까 🥹
 
-### Node 버전을 변경해볼까?
+### Node 버전을 변경해볼까?
 
 내 맥북에 깔려있는 node의 버전은 19.7.1이었다. 현재 lts 버전은 그보다 낮은 18버전이다.
 
@@ -123,7 +123,7 @@ rm -rf '/opt/homebrew/lib/node_modules/npm'
 
 위의 과정을 거쳐 드디어 lts 버전으로 node 버전을 변경하는데 성공하였다. 그럼 프로젝트에서도 오류가 일어나지 않겠지?
 
-### npm과 yarn의 충돌 ~yarn berry로 zero install 설정하기~
+### npm과 yarn의 충돌 (yarn berry로 zero install 설정하기)
 
 그런 일은 없었다.... 좀 더 근본적인 문제가 있는 것으로 보였다. 정말 엄청난 폭풍 구글링 끝에 npm과 yarn의 혼용으로 인한 일인 것 같다는 결론에 다다랐고..
 
