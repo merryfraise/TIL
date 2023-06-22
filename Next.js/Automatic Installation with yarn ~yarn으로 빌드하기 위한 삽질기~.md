@@ -1,4 +1,4 @@
-## 🫒 Automatic Installation with yarn ~yarn으로 빌드하기 위한 삽질기~
+## 🫒 Automatic Installation with yarn (yarn으로 빌드하기 위한 삽질기)
 
 ### 1달 가까이 Next.js를 멀리하면서...
 
