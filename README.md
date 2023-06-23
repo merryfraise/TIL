@@ -22,6 +22,7 @@
 - [Dynamic Routing](https://github.com/merryfraise/TIL/blob/main/Next.js/Dynamic%20Routing.md)
 - [Layout](https://github.com/merryfraise/TIL/blob/main/Next.js/Layout.md)
 - [Not Found](https://github.com/merryfraise/TIL/blob/main/Next.js/Not%20Found.md)
+- [Automatic Installation with yarn (yarn으로 빌드하기 위한 삽질기)](https://github.com/merryfraise/TIL/blob/main/Next.js/Automatic%20Installation%20with%20yarn%20~yarn%EC%9C%BC%EB%A1%9C%20%EB%B9%8C%EB%93%9C%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%82%BD%EC%A7%88%EA%B8%B0~.md)
 
 ## Algorithm
 - [Frequency Counter](https://github.com/merryfraise/TIL/blob/main/Algorithm/Frequency%20Counter.md)
